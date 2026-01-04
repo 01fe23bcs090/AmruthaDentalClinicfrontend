@@ -3,8 +3,8 @@ import axios from 'axios';
 import './App.css';
 
 // --- API CONFIGURATION ---
-const API_URL = 'http://localhost:5000';
-//const API_URL = 'https://dental-clinic-app-1.onrender.com'; 
+//const API_URL = 'http://localhost:5000';
+const API_URL = 'https://amruthadentalclinicbackend.onrender.com'; 
 
 // --- IMAGE LINKS ---
 const IMAGES = {
